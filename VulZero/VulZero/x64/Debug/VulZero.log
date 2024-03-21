@@ -1,0 +1,5 @@
+﻿  VulZero.cpp
+  main.cpp
+  moc_VulZero.cpp
+  qrc_VulZero.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Qt\Tools\QtDesignStudio\qt6_design_studio_reduced_version\lib\Qt6Widgetsd.lib'
